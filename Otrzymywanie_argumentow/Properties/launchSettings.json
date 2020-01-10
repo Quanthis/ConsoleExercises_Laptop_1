@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Otrzymywanie_argumentow": {
+      "commandName": "Project",
+      "commandLineArgs": "red yellow 50 10"
+    }
+  }
+}
